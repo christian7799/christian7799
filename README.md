@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Chris Silva, tenho 19 anos e sou natural de Guarulhos. Concluí o ensino médio na cidade e atualmente estou cursando Análise e Desenvolvimento de Sistemas no Eniac. Sou apaixonado por tecnologia e estou focado em desenvolvimento de software, automação e soluções digitais. Busco constantemente aprimorar minhas habilidades e compartilhar projetos que demonstram meu crescimento como desenvolvedor. Meu perfil profissional no LinkedIn é: www.linkedin.com/in/christian-schiavoni-688568346
+Me chamo Chris Silva, tenho 19 anos e sou natural de Guarulhos. Concluí o ensino médio na cidade e atualmente estou cursando Análise e Desenvolvimento de Sistemas no Eniac. Sou apaixonado por tecnologia e estou focado em desenvolvimento de software, automação e soluções digitais. Busco constantemente aprimorar minhas habilidades e compartilhar projetos que demonstram meu crescimento como desenvolvedor. Meu perfil profissional no LinkedIn é: "[Christian Schiavoni](www.linkedin.com/in/christian-schiavoni-688568346)".
 .
 
 
