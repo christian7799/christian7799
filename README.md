@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Christian Schiavoni
+#  Christian Schiavoni
 
 **`Backend Developer`**
 
