@@ -58,19 +58,7 @@ Me chamo Chris Silva, tenho 19 anos e sou natural de Guarulhos. Concluí o ensin
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
 
-/>
-
-/>
-
-/>
-
-<img 
- 
-<img 
-   
-<img 
     align="left" 
     alt="Git" 
     title="Git"
