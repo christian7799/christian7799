@@ -35,6 +35,7 @@ Me chamo Chris Silva, tenho 19 anos e sou natural de Guarulhos. Concluí o ensin
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="TypeScript"
@@ -42,7 +43,6 @@ Me chamo Chris Silva, tenho 19 anos e sou natural de Guarulhos. Concluí o ensin
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-
 />
 
 <img 
